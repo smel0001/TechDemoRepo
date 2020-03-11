@@ -9,19 +9,19 @@ This project runs on Unity version 2019.3.0(f5).
 To run the game, clone the repository and open the 'GrappleDemo' folder as the unity project folder.
 
 ## Controls and Playing the Game
-WASD to move
-Spacebar to jump
-1,2,3 and Scrollwheel to select abilities
-Mouse to aim abilities
-Left click to use selected ability
+WASD to move  
+Spacebar to jump  
+1,2,3 and Scrollwheel to select abilities  
+Mouse to aim abilities  
+Left click to use selected ability  
 Right click (and hold) to slow time
 
 ## Author
-**Sam Mellor** - Sam(https://github.com/smel0001)
+**Sam Mellor** - [Sam](https://github.com/smel0001)
 
 ## Acknowledgments
 
-This project was adapted from a university group project, which can be found here(https://github.com/smel0001/FIT3145_FinalPrototype).
+This project was adapted from a university group project, which can be found [here](https://github.com/smel0001/FIT3145_FinalPrototype).
 The work found in this project is completely my own, all contributions from other group members (level design) have been removed from this version.
 
 Aknowledgements to my team mmembers of the original project: William Rigoni , CH Lim, Tony Ding.
